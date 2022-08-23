@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jamin I am a python developer
+
 <!--
 **JaminCO/JaminCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
