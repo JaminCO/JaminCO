@@ -11,6 +11,8 @@
 - https://jaminportfolio.netlify.app/
 - https://jaminco.github.io/cv/
 
+### Profiles:
+https://replit.com/@Echendu
 
 <!--
 **JaminCO/JaminCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
