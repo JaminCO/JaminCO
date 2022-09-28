@@ -3,6 +3,7 @@
 #### My name is Jamin I am a python developer and I am a web3 enthusiasts.
 - 🌱 I’m currently learning Data Science
 - 💬 Ask me about Web3
+- 👯 I’m looking to collaborate on any projects
 - 📫 How to reach me:
 - https://twitter.com/jaminonuegbu
 - https://www.linkedin.com/in/jamin-onuegbu-4aa851206/
