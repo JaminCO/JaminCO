@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-#### My name is Jamin I am a python developer and I am a web3 enthusiasts.
-- 🌱 I’m currently learning Data Science
+#### My name is Jamin I am a Python developer and web3 enthusiast.
+- 🌱 I’m currently learning Cybersecurity
 - 💬 Ask me about Web3
 - 👯 I’m looking to collaborate on any projects
 - 📫 How to reach me:
@@ -16,7 +16,7 @@
 https://replit.com/@Echendu
 
 <!--
-**JaminCO/JaminCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JaminCO/JaminCO** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
