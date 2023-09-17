@@ -28,4 +28,5 @@ I'm currently working on a project that aims to make QRCode Generation easier fo
 ## My portfolio:
 - [Portfolio](https://jaminportfolio.netlify.app/)
 - [CV](https://jaminco.github.io/cv/)
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+###Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
