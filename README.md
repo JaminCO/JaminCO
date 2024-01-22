@@ -22,14 +22,14 @@ Stay tuned for updates!
 
 ## 📝 About Me
 
-- 💼 I'm currently working as a Python & Backend Developer.
-- 🌱 I'm constantly learning and exploring new technologies in the Python ecosystem.
-- 🎯 My goal is to contribute to open-source projects and make the Python community a better place.
+- 💼 I'm currently working as a Python & Backend Developer, and I am currently open to new roles/gigs as a Backend Developer or Python Developer.
+- 🌱 I'm constantly learning and exploring new technologies in the ecosystem.
+- 🎯 My goal is to build wonderful SAAS products that solve problems.
 - 📫 You can reach me via email at jaminonuegbu@gmail.com.
 
 ## 🌐 Connect with Me
 
-- [GitHub](https://github.com/JaminCO)
+- [Medium](https://jaminco.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/jamin-onuegbu-4aa851206/)
 - [Twitter](https://twitter.com/jaminonuegbu)
 
