@@ -1,6 +1,6 @@
 # Hi there, I'm Jamin Onuegbu 👋
 
-I'm a passionate Python developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile! Here, you'll find information about my GitHub activity, latest projects, and a little introduction about myself.
+I'm a passionate Python & Backend developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile! Here, you'll find information about my GitHub activity, latest projects, and a little introduction about myself.
 
 ## 📊 GitHub Stats
 
@@ -10,7 +10,15 @@ I'm a passionate Python developer with a love for creating elegant solutions to 
 
 ## 🔧 Currently Working On
 
-I'm currently working on a project that aims to make QRCode Generation easier for frontend devs. Stay tuned for updates!
+I'm currently working on several projects:
+- #### Inkwell
+  This a platform that would provide writers with a portfolio to showcase their skills and works to potential employers, help connect with other writers, and grow their audience through     writing articles with the help of our in-platform AI. => [Inkwell](https://useinkwell.vercel.app/)
+
+- #### Qrdini
+  Qrdini is an API built especially for frontend devs, in other to help them generate and store QR codes. Currently Qrdini is in the beta version but work has begun to roll out V1, if you are interested in using Qrdini it's free, so check it out here => [Qrdini](https://jaminco.github.io/Qrdini)
+
+
+Stay tuned for updates!
 
 ## 📝 About Me
 
