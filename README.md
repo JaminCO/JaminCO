@@ -1,6 +1,6 @@
 # Hi there, I'm Jamin Onuegbu 👋
 
-I'm a passionate Python & Backend developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile! Here, you'll find information about my GitHub activity, latest projects, and a little introduction about myself.
+I'm a passionate Software Developer who loves creating elegant solutions to complex problems. Welcome to my GitHub profile! Here, you'll find information about my GitHub activity, my latest projects, and a little introduction about myself.
 
 ## 📊 GitHub Stats
 
@@ -8,23 +8,29 @@ I'm a passionate Python & Backend developer with a love for creating elegant sol
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaminCO&layout=compact&theme=dark)](https://github.com/JaminCO)
 
-## 🔧 Currently Working On
+## 🔧 Key Projects
 
-I'm currently working on several projects:
+- #### LianFow
+  LianFlow simplifies crypto payment processing on the NEO X blockchain, enabling businesses to seamlessly accept and manage cryptocurrency transactions with minimal technical overhead. => [LianFlow](https://www.lianflow.vercel.app/)
+
+- #### Aurify AI
+  This AI platform helps users convert PDFs to AI-summarized audiobooks and generates AI practice questions so students can be able to study for exams or tests. => [Aurify AI](https://www.aurifyai.xyz/)
+
+
 - #### Inkwell
   This a platform that would provide writers with a portfolio to showcase their skills and works to potential employers, help connect with other writers, and grow their audience through     writing articles with the help of our in-platform AI. => [Inkwell](https://useinkwell.vercel.app/)
 
 - #### Qrdini
-  Qrdini is an API built especially for frontend devs, in other to help them generate and store QR codes. Currently Qrdini is in the beta version but work has begun to roll out V1, if you are interested in using Qrdini it's free, so check it out here => [Qrdini](https://jaminco.github.io/Qrdini)
+  Qrdini is an API built especially for frontend devs, in other to help them generate and store QR codes. Currently, Qrdini is in the beta version but work has begun to roll out V1, if you are interested in using Qrdini it's free, so check it out here => [Qrdini](https://jaminco.github.io/Qrdini)
 
 
 Stay tuned for updates!
 
 ## 📝 About Me
 
-- 💼 I'm currently working as a Python & Backend Developer, and I am currently open to new roles/gigs as a Backend Developer or Python Developer.
-- 🌱 I'm constantly learning and exploring new technologies in the ecosystem.
-- 🎯 My goal is to build wonderful SAAS products that solve problems.
+- 💼 I am currently open to new roles/gigs as a Fullstack Developer (Backend Heavy).
+- 🌱 I'm constantly learning and exploring new technologies in the ecosystem e.g. Web3 and AI.
+- 🎯 My goal is to build SAAS products that solve problems.
 - 📫 You can reach me via email at jaminonuegbu@gmail.com.
 
 ## 🌐 Connect with Me
