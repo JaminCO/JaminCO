@@ -4,9 +4,12 @@ I'm a passionate Software Developer who loves creating elegant solutions to comp
 
 ## 📊 GitHub Stats
 
-[![Jamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaminCO&show_icons=true&theme=dark)](https://github.com/JaminCO)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaminCO&theme=default&hide_border=true" alt="JaminCO's GitHub Stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaminCO&layout=compact&theme=dark)](https://github.com/JaminCO)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaminCO&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaminCO&theme=default&show_icons=true&hide_border=true&layout=compact" alt="JaminCO's GitHub Stats" />
+
 
 ## 🔧 Key Projects
 
